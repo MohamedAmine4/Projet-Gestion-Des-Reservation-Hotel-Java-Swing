@@ -1,0 +1,5 @@
+//Table DetailReservation :
+ALTER TABLE detailReservation AUTO_INCREMENT=1;
+
+//Table Facture :
+ALTER TABLE Facture AUTO_INCREMENT=1;

@@ -1,0 +1,59 @@
+youness.oubenaalla@usmba.ac.ma
+Ilham.chaker@usmba.ac.ma
+abdessamad.chahbi@usmba.ac.ma
+yassir.benkirane@usmba.ac.ma
+mohamedamine.boussoualef@usmba.ac.ma
+
+Bonjour,
+
+Je suis heureux de vous informer que ce dossier "Project UML & IHM MVC Version_Finale 2022_2023" contient 3 sous-dossiers principales.
+
+    Les étudiants qui ont réalisé ce projet :
+         + CHAHBI Abdessamad
+         + BOUSOUALEF Mohamed Amine
+         + BENKIRANE Yassir
+
+Pour accéder à l'interface de l'agent, veuillez utiliser les informations d'identification suivantes :
+    Username : Agent
+    Password : agent123
+Si vous souhaitez vous connecter à l'interface d'administration, vous aurez besoin des informations d'identification suivantes :
+    Username : Admin
+    Password : admin123
+
+************* La partie I : sous-dossier "Les bibliothèques" ***********************************************************************************
+Avant de commencer à tester le projet, vous devrez importer certaines bibliothèques qui seront nécessaires pour son bon fonctionnement :
+
+  1-Tout d'abord, le connecteur "mysql-connector-java-8.0.18" qui permettra de se connecter à la base de données.
+
+  2-Ensuite, la bibliothèque "itextpdf-5.4.1" sera nécessaire pour effectuer l'impression.
+
+  3-Enfin, la bibliothèque "JCalendar" qui comprend quatre bibliothèques : "jcalendar-1.4", "junit-4.6", "jgoodies-looks-2.4.1" et "jgoodies-common-1.2.0" pour la date.
+Toutes ces bibliothèques sont disponibles dans le dossier "Les Bibliotheques".
+
+Il est important de s'assurer que toutes ces bibliothèques sont correctement installées avant de poursuivre avec les tests du projet.
+*************************************************************************************************************************************************
+
+************* La partie II "Eclipse" : sous-dossier "Gestion Hotel" ****************************************************************************
+Pour tester le projet, suivez ces étapes simples :
+  1-Extraire le dossier
+  2-Ouvrir Eclipse
+  3-Cliquer sur "import projects...."
+  4-Choisir "Projects from Floder or Archive"
+  5-Dans "Import source", cliquer sur "Directory" et choisir le dossier "Gestion Hotel"
+
+Le projet sera maintenant importé dans Eclipse et vous pouvez commencer à tester le projet.
+
+N.B: Vous n'avez qu'à ouvrir ce dossier dans Eclipse.
+***********************************************************************************************************************************************
+
+************* La partie III : sous-dossier "Rapport Final 2022_2023" ***************************************************************************
+C'est dans ce dossier que vous trouverez le rapport final de ce projet, qui contient des informations
+  importantes sur les résultats et les conclusions de notre travail.
+**********************************************************************************************************************************************
+
+
+
+
+
+
+

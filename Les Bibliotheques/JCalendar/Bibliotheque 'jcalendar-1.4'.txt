@@ -1,0 +1,5 @@
+pour le telechargement de la bibliotheque pour les dates :
+   https://toedter.com/jcalendar/
+
+
+la bibliothèque "JCalendar" qui comprend quatre bibliothèques : "jcalendar-1.4", "junit-4.6", "jgoodies-looks-2.4.1" et "jgoodies-common-1.2.0" pour la date.
